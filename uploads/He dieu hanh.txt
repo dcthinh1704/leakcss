@@ -1,3 +1,0 @@
-He dieu hanh
-Process tiến trình sinh ra khi chương trình ddwuocj nạp vào CPU để xử lí
-HDH không quản lí register hay cache
